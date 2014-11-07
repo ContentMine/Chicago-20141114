@@ -39,6 +39,6 @@ Workshop resources for the workshop in Chicago (US) on 12th November 2014
 
 ### Documentation
 
-The primary means of communication and taking notes during the workshop will be via this [Etherpad] (http://pads.cottagelabs.com/p/contentmine_Chicago-20141112). 
+The primary means of communication and taking notes during the workshop will be via this [Etherpad] (http://pads.cottagelabs.com/p/contentmine_chicago2014). 
 
 If you're not familiar with Etherpads, it's easy - you just type! Your writing will show up in a different colour to other people's and you can associate the colour with your name by clicking the person icon in the top right corner of the screen.
