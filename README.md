@@ -10,7 +10,7 @@ Workshop resources for the workshop in Chicago (US) on 12th November 2014
 ### 09:00 – 17:00, 12th November 2014 
 ### [Registration] (http://ci-contentmine.eventbrite.com/)
 
-## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#SciDataCon2014
+## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#ContentMine
 
 
 ### Organisers:
