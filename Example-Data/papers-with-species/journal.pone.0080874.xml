@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group>
+<journal-title>PLoS ONE</journal-title></journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">PONE-D-13-33699</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0080874</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories>
+<title-group>
+<article-title>Conservation in the Context of Climate Change: Practical Guidelines for Land Protection at Local Scales</article-title>
+<alt-title alt-title-type="running-head">Conservation in the Context of Climate Change</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Ruddock</surname><given-names>Kevin</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>August</surname><given-names>Peter V.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Damon</surname><given-names>Christopher</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>LaBash</surname><given-names>Charles</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Rubinoff</surname><given-names>Pamela</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Robadue</surname><given-names>Donald</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><addr-line>The Nature Conservancy, Rhode Island Chapter, Providence, Rhode Island, United States of America</addr-line></aff>
+<aff id="aff2"><label>2</label><addr-line>Environmental Data Center, Department of Natural Resources Science, University of Rhode Island, Kingston, Rhode Island, United States of America</addr-line></aff>
+<aff id="aff3"><label>3</label><addr-line>Coastal Resources Center, Graduate School of Oceanography, University of Rhode Island, Narragansett, Rhode Island, United States of America</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Lamb</surname><given-names>Eric Gordon</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>University of Saskatchewan, Canada</addr-line></aff>
+<author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">pete@edc.uri.edu</email></corresp>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn>
+<fn fn-type="con"><p>Conceived and designed the experiments: KR PA CD CL. Performed the experiments: KR PA. Analyzed the data: PA. Contributed reagents/materials/analysis tools: KR PA CD CL. Wrote the paper: PA KR CD CL PR DR.</p></fn>
+</author-notes>
+<pub-date pub-type="collection"><year>2013</year></pub-date>
+<pub-date pub-type="epub"><day>20</day><month>11</month><year>2013</year></pub-date>
+<volume>8</volume>
+<issue>11</issue>
+<elocation-id>e80874</elocation-id>
+<history>
+<date date-type="received"><day>15</day><month>8</month><year>2013</year></date>
+<date date-type="accepted"><day>5</day><month>10</month><year>2013</year></date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Ruddock et al</copyright-holder><license xlink:href="http://creativecommons.org/licenses/by/3.0/" xlink:type="simple"><license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions>
+<abstract>
+<p>Climate change will affect the composition of plant and animal communities in many habitats and geographic settings. This presents a dilemma for conservation programs – will the portfolio of protected lands we now have achieve a goal of conserving biodiversity in the future when the ecological communities occurring within them change? Climate change will significantly alter many plant communities, but the geophysical underpinnings of these landscapes, such as landform, elevation, soil, and geological properties, will largely remain the same. Studies show that extant landscapes with a diversity of geophysical characteristics support diverse plant and animal communities. Therefore, geophysically diverse landscapes will likely support diverse species assemblages in the future, although which species and communities will be present is not altogether clear. Following protocols advanced in studies spanning large regions, we developed a down-scaled, high spatial resolution measure of geophysical complexity based on Ecological Land Units (ELUs) and examined the relationship between plant species richness, ecological community richness, and ELU richness (number of different ELU types). We found that extant landscapes with high ELU richness had a greater variety of ecological community types and high species richness of trees, shrubs, and herbaceous plants. We developed a spatial representation of diverse ELU landscapes to inform local conservation practitioners, such as land trusts, of potential conservation targets that will likely support diverse faunas and floras despite the impact of climate change.</p>
+</abstract>
+<funding-group><funding-statement>This research was supported by grants from the US Department of Agriculture Renewable Resource Extension Act, the Sea Grant College Program of Rhode Island, the Rhode Island Coastal Resources Management Council, and the US Department of Commerce National Oceanic and Atmospheric Administration. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><page-count count="9"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p>Climate change will alter the composition of the plant and animal communities <xref ref-type="bibr" rid="pone.0080874-Iverson1">[1]</xref>–<xref ref-type="bibr" rid="pone.0080874-Rapacciuolo1">[9]</xref>. This appears to be happening already as evidenced by studies comparing historic and current range distributions <xref ref-type="bibr" rid="pone.0080874-Bellard1">[3]</xref>–<xref ref-type="bibr" rid="pone.0080874-Mawdsley1">[8]</xref>. The implication is that the ecological communities of a present-day landscape may be quite different in the future when climates are markedly different. For example, depending on which climate change model is used, the climate of the state of Rhode Island USA in 2100 will be similar to the current climate of the mid-Atlantic or southeast United States <xref ref-type="bibr" rid="pone.0080874-Frumhoff1">[10]</xref>. This presents a challenge for conservationists working to protect biodiversity: will the current portfolio of conserved lands in a region be effective in protecting biodiversity when the composition of plant and animal communities has profoundly changed <xref ref-type="bibr" rid="pone.0080874-Moritz1">[5]</xref>, <xref ref-type="bibr" rid="pone.0080874-Diffenbaugh1">[11]</xref>? Put another way, where are the important lands to protect now that will have high value in protecting biodiversity when climates and local ecosystems are markedly different in the future?</p>
+<p>Hunter et al. <xref ref-type="bibr" rid="pone.0080874-Hunter1">[12]</xref> argued for the conservation of ecological communities rather than specific species and termed this approach “coarse-filter” conservation. Moreover, they specifically advocated for the protection of those geophysical characteristics (soils, climate, topography) which are the “arenas” of different plant and animal communities. Recently, Anderson and Ferree and others <xref ref-type="bibr" rid="pone.0080874-Anderson1">[13]</xref>–<xref ref-type="bibr" rid="pone.0080874-Groves1">[15]</xref> argue that since species composition of ecological communities will be changing over the decades as a result of climate change and other forcing factors, we should focus on conserving geophysical settings that support diverse, interesting, or important plant and animal assemblages. Using the metaphor of the ecological theater advanced by Hutchinson <xref ref-type="bibr" rid="pone.0080874-Hutchinson1">[16]</xref>, they call for a coarse filter approach to protecting the stage (geophysical setting), not just the specific actors (species) <xref ref-type="bibr" rid="pone.0080874-Anderson1">[13]</xref>–<xref ref-type="bibr" rid="pone.0080874-Groves1">[15]</xref>. Anderson and Ferree found a strong positive correlation between geophysical setting, as defined by bedrock geology and landform, and plant and animal diversity at a statewide scale in the northeastern United States. Similar relationships between geophysical diversity and biodiversity have been observed at finer scales <xref ref-type="bibr" rid="pone.0080874-Nichols1">[17]</xref>, <xref ref-type="bibr" rid="pone.0080874-Burnett1">[18]</xref>.</p>
+<p>The goal of this analysis was to determine if the method used by Anderson and Ferree <xref ref-type="bibr" rid="pone.0080874-Anderson1">[13]</xref> at state-scales (1,000 s sq km) could be down-scaled to perform in smaller areas with greater spatial resolution in order to provide conservation planning guidance to local conservation organizations, such as land trusts, land conservancies, municipalities, and non-governmental organizations (NGO) who preserve small parcels of land (10 s to 100 s hectares) to protect local biodiversity and ecosystem services. Specifically, we are interested in determining if it is possible to identify landscapes that will support a large number of ecological communities and different plant species (and presumably animal species as well) as climates change. The basis of our analyses are “ecological land units” (ELU, <xref ref-type="bibr" rid="pone.0080874-Anderson1">[13]</xref>, <xref ref-type="bibr" rid="pone.0080874-Zimmerman1">[19]</xref>, <xref ref-type="bibr" rid="pone.0080874-Franklin1">[20]</xref>) which are relatively homogeneous areas of a particular landform (e.g., hilltop, slope, and valley) and geomorphological composition. ELUs' are sometimes called “Land Facets” <xref ref-type="bibr" rid="pone.0080874-Beier1">[14]</xref>, <xref ref-type="bibr" rid="pone.0080874-Wessels1">[21]</xref>. We evaluate the efficacy of our measure of ELU richness to predict high biodiversity by comparing the local variation in geophysical settings with patterns of plant species diversity in biological refuges owned by the Audubon Society of Rhode Island. We also involved Rhode Island state and municipal officials and local land trusts to explore how to present landscape scale patterns of ELUs in a manner that is usable and interpretable by conservation practitioners who have limited technical resources to draw upon for conservation planning.</p>
+</sec><sec id="s2" sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>Our choices of data and technical procedures to map ELUs were based on the objective to make implementation possible by local conservation organizations who do not have extensive resources in geospatial data processing or staff ecologists. Furthermore, we endeavored to make the resolution of ELUs practical for use at local scales to assist in the identification of priority parcels for land trusts or community conservation organizations <xref ref-type="bibr" rid="pone.0080874-Strager1">[22]</xref>. When possible, we used off-the-shelf data that are readily available from reliable sources. All data processing was done using ArcGIS 10 software (Environmental Systems Research Institute, Redlands, CA).</p>
+<sec id="s2a">
+<title>Sources of Data</title>
+<p>Landform was obtained from a photogrammetrically-derived digital terrain model <xref ref-type="bibr" rid="pone.0080874-Maune1">[23]</xref> depicting a bare-earth surface downloaded from the Rhode Island Geographic Information System [RIGIS] data repository (<ext-link ext-link-type="uri" xlink:href="http://www.edc.uri.edu/rigis" xlink:type="simple">http://www.edc.uri.edu/rigis</ext-link>). The raw data were in a TIN (triangulated irregular network) data model stored in an esri terrain file format <xref ref-type="bibr" rid="pone.0080874-Shellito1">[24]</xref>. These elevation data have a vertical accuracy of approximately 3 m and were based on mass point elevations with a mean spacing of 6.3 m in landscapes with varying topography. The elevation terrain model was converted to a raster digital elevation model with a cell size of 3 m. These data are technically consistent with digital elevation models available for much of the United States (National Elevation Data, NED) from The National Map data collection maintained by the United States Geological Survey [<ext-link ext-link-type="uri" xlink:href="http://nationalmap.gov/" xlink:type="simple">http://nationalmap.gov/</ext-link>, 25].</p>
+<p>Soil drainage and surface texture were obtained from SSURGO (state soil survey geographic database) obtained from the United Stated Department of Agriculture Natural Resources Conservation Service <xref ref-type="bibr" rid="pone.0080874-Soil1">[26]</xref>. In Rhode Island, SSURGO data are mapped at a scale of 1∶15,840 and have a minimum polygon size of approximately 0.2 ha.</p>
+<p>Open water polygons used in the derivation of ELUs were obtained from the RIGIS database. These data were delineated from 1∶5,000 digital orthophotography in 1997 and have a minimum polygon size of 0.1 ha. These data are generally consistent with the surface hydrography (National Hydrographic Data, NHD) available from The National Map data collection maintained by the United States Geological Survey (<ext-link ext-link-type="uri" xlink:href="http://nationalmap.gov/" xlink:type="simple">http://nationalmap.gov/</ext-link>).</p>
+<p>Biodiversity data were obtained from plant surveys conducted in 1993 and 1994 on Audubon Society of Rhode Island (ASRI) refuges <xref ref-type="bibr" rid="pone.0080874-Nichols1">[17]</xref>, <xref ref-type="bibr" rid="pone.0080874-Vacher1">[27]</xref>. Comprehensive inventories of all species of vascular plants (herbs, shrubs, trees) and measurement of the number of different plant communities were conducted by two experienced plant taxonomists on 24 refuges ranging in size from 1.4–60 ha (<xref ref-type="fig" rid="pone-0080874-g001">Figure 1</xref>). All surveys were based on an individual-based sampling protocol <xref ref-type="bibr" rid="pone.0080874-Gotelli1">[28]</xref> and were performed by the same botanists at a survey rate of 2 ha/hr. Inventories were conducted on each refuge until no new species were encountered when fully traversing small areas or no new species were found in 20 person minutes of searching. The ecologists performing the surveys conducted a validation assessment on one Audubon reserve <xref ref-type="bibr" rid="pone.0080874-Nichols2">[29]</xref>. The two botanists surveyed the site in 18 person hours. A group of 10 experienced plant ecologists surveyed the same site in 60 person hours. The original 18-hour survey contained 92% of the species recorded in the more intensive 60-hour replicate survey. All Audubon refuge surveys were performed by the same two scientists, thus any biases in their surveys were consistent across all refuges. Original field notes by the ecologists surveying the flora of the Audubon refuges are unavailable to us, thus estimating species richness using rarefaction methods was not possible <xref ref-type="bibr" rid="pone.0080874-Gotelli1">[28]</xref>.</p>
+<fig id="pone-0080874-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0080874.g001</object-id><label>Figure 1</label><caption>
+<title>Audubon Society of Rhode Island Refuges.</title>
+<p>Locations of refuges where vascular plant inventories were conducted.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0080874.g001" position="float" xlink:type="simple"/></fig></sec><sec id="s2b">
+<title>Deriving Ecological Land Units</title>
+<p>We followed the procedures described in Anderson and Ferree and Fel and others to map ELUs <xref ref-type="bibr" rid="pone.0080874-Anderson1">[13]</xref>, <xref ref-type="bibr" rid="pone.0080874-Zimmerman1">[19]</xref>, <xref ref-type="bibr" rid="pone.0080874-Fels1">[30]</xref>, <xref ref-type="bibr" rid="pone.0080874-Anderson2">[31]</xref>. Rather than using bedrock geology data to define ELUs we used SSURGO soils data because they were available at a more resolute scale (1∶15,840, minimum mapping unit of 0.2 ha) than bedrock geology (1∶100,000) in Rhode Island. Furthermore, soils are often used when mapping ELUs because of their importance in defining plant communities <xref ref-type="bibr" rid="pone.0080874-Nichols1">[17]</xref>, <xref ref-type="bibr" rid="pone.0080874-Burnett1">[18]</xref>, <xref ref-type="bibr" rid="pone.0080874-Wessels1">[21]</xref>, <xref ref-type="bibr" rid="pone.0080874-Prentice1">[32]</xref>. Following previously published methods in mapping geomorphological heterogeneity <xref ref-type="bibr" rid="pone.0080874-Nichols1">[17]</xref>, <xref ref-type="bibr" rid="pone.0080874-Burnett1">[18]</xref> and in consultation with soil scientists and plant ecologists, we used two fundamental soil properties - soil drainage class and soil surface texture - in defining ELUs (<xref ref-type="table" rid="pone-0080874-t001">Table 1</xref>). Soil drainage class distinguishes well-drained (dry) and poorly-drained (wet) soils and are important in defining wetland and upland plant communities <xref ref-type="bibr" rid="pone.0080874-Nichols1">[17]</xref>–<xref ref-type="bibr" rid="pone.0080874-Zimmerman1">[19]</xref>. Surface texture of soils (sandy, gravelly, loamy) are a determinant of many different plant associations <xref ref-type="bibr" rid="pone.0080874-Prentice1">[32]</xref>. Both parameters are included in the SSURGO attribute database. Although we considered each soil polygon to be homogeneous for its soil type, we know that it is possible to have aberrant inclusions of other soil types that are smaller than the minimum mapping unit of the dataset (0.2 ha for RI SSURGO data).</p>
+<table-wrap id="pone-0080874-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0080874.t001</object-id><label>Table 1</label><caption>
+<title>Soil drainage, soil texture, and landform classes used to identify ELUs.</title>
+</caption><alternatives><graphic id="pone-0080874-t001-1" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0080874.t001" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Soil Drainage Classes</td>
+<td align="left" rowspan="1" colspan="1">Soil Texture Classes</td>
+<td align="left" rowspan="1" colspan="1">Landform Classes</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Excessively Drained (1000)</td>
+<td align="left" rowspan="1" colspan="1">Gravelly Sand (100)</td>
+<td align="left" rowspan="1" colspan="1">Steep Slope (04)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Well Drained (2000)</td>
+<td align="left" rowspan="1" colspan="1">Sand (200)</td>
+<td align="left" rowspan="1" colspan="1">Cliff (05)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Poorly Drained (3000)</td>
+<td align="left" rowspan="1" colspan="1">Loamy Sand (300)</td>
+<td align="left" rowspan="1" colspan="1">Flat Summit (11)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Variable (4000)</td>
+<td align="left" rowspan="1" colspan="1">Fine Sandy Loam (400)</td>
+<td align="left" rowspan="1" colspan="1">Slope Crest (13)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Water (5000)</td>
+<td align="left" rowspan="1" colspan="1">Silt Loam (500)</td>
+<td align="left" rowspan="1" colspan="1">Hilltop (21)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Muck (600)</td>
+<td align="left" rowspan="1" colspan="1">Hill, Gentle Slope (22)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Bedrock (700)</td>
+<td align="left" rowspan="1" colspan="1">NE-facing Sideslope (23)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Variable (800)</td>
+<td align="left" rowspan="1" colspan="1">SW-facing Sideslope (24)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Water (900)</td>
+<td align="left" rowspan="1" colspan="1">Flat, Dry (30)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Flat, Wet (31)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Valley, Toe Slope (32)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Flat, Base of Steep Slope (41)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">NE-facing Cove (43)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">SW-facing Cove (44)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Water (51)</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt101"><label/><p>The code values in parentheses are the class codes to identify each condition. ELUs are formed by merging these three GIS layers resulting in unique combinations of landform and soil conditions (see Table 3)</p></fn></table-wrap-foot></table-wrap>
+<p>The code values in parentheses are the class codes to identify each condition. ELUs are formed by merging these three GIS layers resulting in unique combinations of landform and soil conditions (see <xref ref-type="table" rid="pone-0080874-t003">Table 3</xref>).</p>
+<p>Landform is a complex measure representing unique combinations of elevation, slope, aspect, surface curvature, and upslope catchment area. We used the approach described by Fels and Matson <xref ref-type="bibr" rid="pone.0080874-Fels1">[30]</xref> and used by others <xref ref-type="bibr" rid="pone.0080874-Anderson1">[13]</xref>, <xref ref-type="bibr" rid="pone.0080874-Groves1">[15]</xref>, <xref ref-type="bibr" rid="pone.0080874-Zimmerman1">[19]</xref>, <xref ref-type="bibr" rid="pone.0080874-Anderson2">[31]</xref> to model landforms. This method relies on slope and landscape position relative to surrounding elevations to define topographic units (e.g., steep slope, flat hilltop, wet flat). We identified 14 different landform conditions (<xref ref-type="table" rid="pone-0080874-t001">Table 1</xref>, see Supplemental <xref ref-type="supplementary-material" rid="pone.0080874.s001">Information S1</xref>).</p>
+<p>Soil drainage class, soil surface texture classes, and landform were combined to incorporate all these factors into a single raster dataset (15.24 m [50 ft] cell size) where every pixel contained the value for soil drainage, texture, and landform class (<xref ref-type="table" rid="pone-0080874-t002">Table 2</xref>).</p>
+<table-wrap id="pone-0080874-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0080874.t002</object-id><label>Table 2</label><caption>
+<title>Most common ELU categories accounting for 85% land area of Rhode Island.</title>
+</caption><alternatives><graphic id="pone-0080874-t002-2" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0080874.t002" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">ELU Code</td>
+<td align="left" rowspan="1" colspan="1">Description</td>
+<td align="left" rowspan="1" colspan="1">Area (Sq Km)</td>
+<td align="left" rowspan="1" colspan="1">Percent Land Area of Rhode Island % Land area of RI</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">2432</td>
+<td align="left" rowspan="1" colspan="1">Well drained fine sandy loam on valley/toe slope</td>
+<td align="left" rowspan="1" colspan="1">382.3</td>
+<td align="left" rowspan="1" colspan="1">14.5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2422</td>
+<td align="left" rowspan="1" colspan="1">Well drained fine sandy loam on gentle slope</td>
+<td align="left" rowspan="1" colspan="1">249.1</td>
+<td align="left" rowspan="1" colspan="1">9.5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2430</td>
+<td align="left" rowspan="1" colspan="1">Well drained fine sandy loam on dry flat</td>
+<td align="left" rowspan="1" colspan="1">234.8</td>
+<td align="left" rowspan="1" colspan="1">8.9</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2421</td>
+<td align="left" rowspan="1" colspan="1">Well drained fine sandy loam on flat hilltop</td>
+<td align="left" rowspan="1" colspan="1">143.2</td>
+<td align="left" rowspan="1" colspan="1">5.5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2423</td>
+<td align="left" rowspan="1" colspan="1">Well drained fine sandy loam on upper sideslope/rounded ridge</td>
+<td align="left" rowspan="1" colspan="1">116.7</td>
+<td align="left" rowspan="1" colspan="1">4.4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2424</td>
+<td align="left" rowspan="1" colspan="1">Well drained fine sandy loam on SE facing sideslope</td>
+<td align="left" rowspan="1" colspan="1">112.1</td>
+<td align="left" rowspan="1" colspan="1">4.3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">3421</td>
+<td align="left" rowspan="1" colspan="1">Poorly drained fine sandy loam on flat hilltop</td>
+<td align="left" rowspan="1" colspan="1">107.6</td>
+<td align="left" rowspan="1" colspan="1">4.1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2530</td>
+<td align="left" rowspan="1" colspan="1">Well drained silt loam dry flat</td>
+<td align="left" rowspan="1" colspan="1">106.6</td>
+<td align="left" rowspan="1" colspan="1">4.1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2532</td>
+<td align="left" rowspan="1" colspan="1">Well drained silt loam on valley/toeslope</td>
+<td align="left" rowspan="1" colspan="1">105.2</td>
+<td align="left" rowspan="1" colspan="1">4.0</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">3621</td>
+<td align="left" rowspan="1" colspan="1">Poorly drained muck on flat hilltop</td>
+<td align="left" rowspan="1" colspan="1">102.5</td>
+<td align="left" rowspan="1" colspan="1">3.9</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">3422</td>
+<td align="left" rowspan="1" colspan="1">Poorly drained fine sandy loam on gentle slope</td>
+<td align="left" rowspan="1" colspan="1">87.9</td>
+<td align="left" rowspan="1" colspan="1">3.3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2522</td>
+<td align="left" rowspan="1" colspan="1">Well drained silt loam on gentle slope</td>
+<td align="left" rowspan="1" colspan="1">83.6</td>
+<td align="left" rowspan="1" colspan="1">3.2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2521</td>
+<td align="left" rowspan="1" colspan="1">Well drained silt loam on flat hilltop</td>
+<td align="left" rowspan="1" colspan="1">73.0</td>
+<td align="left" rowspan="1" colspan="1">3.2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">1122</td>
+<td align="left" rowspan="1" colspan="1">Excessively drained gravelly sand on gentle slope</td>
+<td align="left" rowspan="1" colspan="1">56.5</td>
+<td align="left" rowspan="1" colspan="1">2.1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">1132</td>
+<td align="left" rowspan="1" colspan="1">Excessively drained gravelly sand on valley/toe slope</td>
+<td align="left" rowspan="1" colspan="1">56.1</td>
+<td align="left" rowspan="1" colspan="1">2.1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">1130</td>
+<td align="left" rowspan="1" colspan="1">Excessively drained gravelly sand on dry flat</td>
+<td align="left" rowspan="1" colspan="1">33.9</td>
+<td align="left" rowspan="1" colspan="1">1.3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">1121</td>
+<td align="left" rowspan="1" colspan="1">Excessively drained gravelly sand on flat hilltop</td>
+<td align="left" rowspan="1" colspan="1">31.9</td>
+<td align="left" rowspan="1" colspan="1">1.2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">3521</td>
+<td align="left" rowspan="1" colspan="1">Poorly drained silt loam on flat hilltop</td>
+<td align="left" rowspan="1" colspan="1">31.9</td>
+<td align="left" rowspan="1" colspan="1">1.2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">1123</td>
+<td align="left" rowspan="1" colspan="1">Excessively drained gravelly sand on upper sideslope/rounded ridge</td>
+<td align="left" rowspan="1" colspan="1">30.4</td>
+<td align="left" rowspan="1" colspan="1">1.2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">1124</td>
+<td align="left" rowspan="1" colspan="1">Excessively drained gravelly sand on SE facing sideslope</td>
+<td align="left" rowspan="1" colspan="1">29.6</td>
+<td align="left" rowspan="1" colspan="1">1.1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">1430</td>
+<td align="left" rowspan="1" colspan="1">Excessively drained fine sandy loam on dry flat</td>
+<td align="left" rowspan="1" colspan="1">23.7</td>
+<td align="left" rowspan="1" colspan="1">0.9</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">3622</td>
+<td align="left" rowspan="1" colspan="1">Poorly drained silt loam on gentle slope</td>
+<td align="left" rowspan="1" colspan="1">22.4</td>
+<td align="left" rowspan="1" colspan="1">0.8</td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap></sec><sec id="s2c">
+<title>ELU Metrics</title>
+<p>To test our hypothesis that areas that contain a large variety of ELU types (high ELU richness) will contain a large variety of plant communities and high biodiversity, we created a raster surface that contained the number of different ELUs in a 457 m (30 pixel, 1,500 ft) radius. The larger the number of unique ELU classes in the moving window <xref ref-type="bibr" rid="pone.0080874-Shellito1">[24]</xref>, the greater the local richness of ELUs. A pixel that is surrounded by the same ELU type would have a value of 1 and indicate a homogeneous landscape. We chose a moving window of 457 m (30 pixels) because this generally corresponds to the area (∼65 ha) that a Rhode Island land trust or other conservation organization might typically be interested in purchasing. We experimented with alternative sizes of moving windows in increments of 10 pixels from 10 to 50 pixels. Small radii (10 pixels, 152 m, 500 ft) did not capture regional patterns of ELU variety very well whereas large radii (50 pixels, 762 m, 2,500 ft) homogenized regional variation in ELUs. The 30 pixel (457 m) radius performed best at capturing ELU variety.</p>
+<p>To simplify mapping of ELU richness into discrete classes that could be used to identify areas of high variation in ELUs, we reclassified the ELU richness raster into areas based on standard deviation units from the mean ELU richness for the state of Rhode Island. The statewide mean richness was 24 ELU types in the 457 m window. We consider any area that had more than 1 standard deviation (SD) more than the mean ELU richness to be highly variable. We reduced ELU richness into three discrete categories based on how many SD classes above the mean they were: class 1 is more than 1 SD above the mean variety (29–38 ELU types), class 2 is more than 2 SDs above mean variety (39–47 types of ELUs), and class 3 is &gt;3 SD above mean variety (&gt;47 kinds of ELU) (<xref ref-type="table" rid="pone-0080874-t003">Table 3</xref>). For cartographic and aesthetic reasons, SD class areas were converted from raster format (15.24 m cell size) to vector polygons, their boundaries slightly smoothed to remove the jagged corners of pixels, and small or sliver polygons less than 0.4 ha removed by absorbing them into their surrounding polygons. We call these resulting three classes of ELU richness “planning classes” for use by non-scientific conservationists: Class 1 has a “good” variety of ELU types, class 2 has “better” ELU variety, and class 3 has the “best” richness of ELUs in Rhode Island.</p>
+<table-wrap id="pone-0080874-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0080874.t003</object-id><label>Table 3</label><caption>
+<title>Standard deviation and resulting planning classes of the richness of ELUs within a 457 m (30 pixels) neighborhood.</title>
+</caption><alternatives><graphic id="pone-0080874-t003-3" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0080874.t003" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Number of ELU types within 457 m (30 pixels)</td>
+<td align="left" rowspan="1" colspan="1">Category</td>
+<td align="left" rowspan="1" colspan="1">Area of land surface of RI (Sq Km, percent total state area)</td>
+<td align="left" rowspan="1" colspan="1">Planning class</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">24</td>
+<td align="left" rowspan="1" colspan="1">Mean variety for RI</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">29–38</td>
+<td align="left" rowspan="1" colspan="1">1 SD&gt;mean</td>
+<td align="left" rowspan="1" colspan="1">644.8 (23.1%)</td>
+<td align="left" rowspan="1" colspan="1">Good</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">39–47</td>
+<td align="left" rowspan="1" colspan="1">2 SD&gt;mean</td>
+<td align="left" rowspan="1" colspan="1">184.6 (6.6%)</td>
+<td align="left" rowspan="1" colspan="1">Better</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">&gt;47</td>
+<td align="left" rowspan="1" colspan="1">3 SD&gt;mean</td>
+<td align="left" rowspan="1" colspan="1">28.4 (1%)</td>
+<td align="left" rowspan="1" colspan="1">Best</td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap></sec><sec id="s2d">
+<title>Testing the Relationship Between ELU Richness and Species Richness</title>
+<p>We tested the null hypothesis that there was no relationship between ELU richness and plant species richness on the 24 Audubon Society of Rhode Island refuges. Refuges encompassed 16 different plant communities throughout the State of Rhode Island USA <xref ref-type="bibr" rid="pone.0080874-Nichols1">[17]</xref>, <xref ref-type="bibr" rid="pone.0080874-Vacher1">[27]</xref>. Our measures of plant and community richness for each refuge were: total number of different ecological communities, total number of vascular plant species, and the total number of tree, shrub, and herbaceous plant species. For each refuge we measured the total number of different ELU types (ELU richness) that was found within the refuge boundaries.</p>
+<p>Refuge size was significantly correlated with plant species richness (r = 0.63, p&lt;0.0001), community richness (r = 0.53, p&lt;0.001), and the number of different ELU types (r = 0.64, p&lt;0.0001) on Audubon refuges. We removed this size bias by standardizing our measures of community, species, and ELU richness by refuge size (ha) thus providing estimates of ELU density (ELU types/ha), species density (number of species/ha), and community type density (number communities/ha) <xref ref-type="bibr" rid="pone.0080874-Gotelli1">[28]</xref>.</p>
+<p>Because our measures of biodiversity and ELU richness were not normally distributed (Shapiro-Wilk Test), we used Spearman rank-order coefficient of correlation analysis to measure the degree of association between ELU richness and plant species richness. All statistical procedures were done using R software <xref ref-type="bibr" rid="pone.0080874-R1">[33]</xref>.</p>
+</sec></sec><sec id="s3">
+<title>Results</title>
+<sec id="s3a">
+<title>Landscape-scale Patterns of ELUs</title>
+<p>There are 204 unique ELUs in Rhode Island, however, 85% of the land area of the state is covered by only 22 different ELUs (<xref ref-type="table" rid="pone-0080874-t002">Table 2</xref>, <xref ref-type="fig" rid="pone-0080874-g002">Figure 2</xref>). The geography of ELUs clearly show the general landforms of the region such as the glacial moraine, large wetlands, upland forest in rolling hills, and glacial scouring of valleys and river channels.</p>
+<fig id="pone-0080874-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0080874.g002</object-id><label>Figure 2</label><caption>
+<title>ELUs in Rhode Island.</title>
+<p>(A) Map showing ELUs for a Rhode Island landscape. (B) Cumulative distribution function for ELUs of Rhode Island.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0080874.g002" position="float" xlink:type="simple"/></fig>
+<p>The spatial pattern of the richness of ELUs was not uniform and specific areas emerged as being highly variable (<xref ref-type="fig" rid="pone-0080874-g003">Figure 3</xref>). The simplification of the ELU richness map into three discrete planning categories based on SD units above the statewide mean resulted in clear patterns of ELU richness hotspots (<xref ref-type="fig" rid="pone-0080874-g003">Figure 3</xref>). River channels and wetlands frequently created high spatial diversity of ELUs because of the juxtaposition of well-drained and poorly-drained soils in a small area as well as large changes in topography and landform.</p>
+<fig id="pone-0080874-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0080874.g003</object-id><label>Figure 3</label><caption>
+<title>Spatial pattern of ELU richness.</title>
+<p>(A) Rhode Island landscape, 2011 digital orthophoto. Area mapped same as <xref ref-type="fig" rid="pone-0080874-g002">Figure 2</xref>. (B) Number of ELU types within a 30 pixel (457 m) radius. (C) ELU categories based on standard deviation units from the statewide mean variety ( = 24 ELU types in a 30 pixel radius). Basemap data from Environmental Systems Research Institute (Redlands, CA), and Rhode Island Geographic Information System database.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0080874.g003" position="float" xlink:type="simple"/></fig></sec><sec id="s3b">
+<title>Biodiversity and ELU Richness</title>
+<p>We hypothesize that landscapes with high ELU richness will support many different kinds of plant community types and result in high species richness of plants. This prediction is based on the assumption that unique ELUs may support unique plant communities; for example, wetland plant communities will occur on ELUs' containing poorly drained soils in valley bottoms whereas upland plant communities will occur in well-drained soils on hilltops and slopes. Our measures of plant species and community type richness were the species totals for Audubon refuges in Rhode Island standardized by refuge size to remove the bias of refuge area. All of the plant species density measures showed significant positive correlations with ELU density (herbaceous species, r = 0.80, p&lt;0.001; shrubs r = 0.74, p&lt;0.001; trees r = 0.60, p&lt;0.005). There were significant positive correlations between ELU density and community type density (r = 0.81, p&lt;0.001) and total plant species density (r = 0.81, p&lt;0.001, <xref ref-type="fig" rid="pone-0080874-g004">Figure 4</xref>).</p>
+<fig id="pone-0080874-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0080874.g004</object-id><label>Figure 4</label><caption>
+<title>Total plant species and ecological community density versus ELU richness.</title>
+<p>(A) Total plant species density versus total number of different ELU types on ASRI refuges (standardized by refuge area in hectare). (B) Number of ecological communities on ASRI refuges versus ELU type density.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0080874.g004" position="float" xlink:type="simple"/></fig></sec></sec><sec id="s4">
+<title>Discussion</title>
+<p>Ecological Land Units are a fundamental geophysical substrate of ecological communities and variation in geophysical settings can result in a diversity of plant associations in a region <xref ref-type="bibr" rid="pone.0080874-Anderson1">[13]</xref>–<xref ref-type="bibr" rid="pone.0080874-Groves1">[15]</xref>, <xref ref-type="bibr" rid="pone.0080874-Nichols1">[17]</xref>–<xref ref-type="bibr" rid="pone.0080874-Zimmerman1">[19]</xref>, <xref ref-type="bibr" rid="pone.0080874-Hjort1">[34]</xref>. Our analysis indicates that spatial variation in ELUs is positively related to plant species richness and community diversity. Landscapes with high spatial variation in ELUs had greater plant biodiversity than landscapes with little variation in ELUs. Our study sites (Audubon Society of Rhode Island refuges) have been undisturbed for at least three decades and occur in a common climatic zone. Thus, factors that could have strong influence on biodiversity such as climate regime, land use history, pests, pathogens, and invasive species <xref ref-type="bibr" rid="pone.0080874-Theobald1">[35]</xref> were generally similar among sites. Our results support the hypothesis that landscapes that encompass many different geophysical settings (ELUs) show higher biodiversity than landscapes with homogeneous geophysical properties. This relationship spans multiple spatial scales over many biogeographic regions <xref ref-type="bibr" rid="pone.0080874-Anderson1">[13]</xref>, <xref ref-type="bibr" rid="pone.0080874-Nichols1">[17]</xref>–<xref ref-type="bibr" rid="pone.0080874-Strager1">[22]</xref>, <xref ref-type="bibr" rid="pone.0080874-Hjort1">[34]</xref>.</p>
+<p>We modeled our ELU classification scheme after Anderson and Feree <xref ref-type="bibr" rid="pone.0080874-Anderson1">[13]</xref>. Instead of using bedrock geology as a basis for mapping ELUs we used USDA NRCS SSURGO data which are commonly available at very fine scales (typically 1∶12,000) for much of the United States. Bedrock data are coarsely mapped at small scale (1∶100,000) for Rhode Island and did not provide the spatial resolution of SSURGO soils for the state (1∶15,840). Furthermore, detailed digital bedrock data are not uniformly available across the United States as are the SSURGO data. Similarly, terrain data comparable to ours are readily available in the 1/3 and 1/9 arc second NED data available for much of the United States <xref ref-type="bibr" rid="pone.0080874-Gesch1">[25]</xref>. Thus, ELUs as we defined them can be mapped for most of the United States and other parts of the world where soils and terrain data are available. Our regions of high and low ELU richness are mapped at a resolution that is meaningful to local conservation organizations and integrate nicely with other geospatial data that are used to evaluate prospective properties to acquire. For example, ELU richness is one of many factors used by the Richmond Rural Preservation Land Trust (Town of Richmond, RI) to evaluate and rank prospective properties (<xref ref-type="table" rid="pone-0080874-t004">Table 4</xref>).</p>
+<table-wrap id="pone-0080874-t004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0080874.t004</object-id><label>Table 4</label><caption>
+<title>An example of land acquisition criteria used by a municipal land trust in Rhode Island showing how ELU richness is incorporated into a larger land protection context.</title>
+</caption><alternatives><graphic id="pone-0080874-t004-4" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0080874.t004" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td colspan="4" align="left" rowspan="1">Weighting Value (points)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">#</td>
+<td align="left" rowspan="1" colspan="1">Criterion</td>
+<td align="left" rowspan="1" colspan="1">0</td>
+<td align="left" rowspan="1" colspan="1">1</td>
+<td align="left" rowspan="1" colspan="1">2</td>
+<td align="left" rowspan="1" colspan="1">3</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">1.</td>
+<td align="left" rowspan="1" colspan="1">Size of parcel (acres)</td>
+<td align="left" rowspan="1" colspan="1">&lt;2 acre</td>
+<td align="left" rowspan="1" colspan="1">2–25</td>
+<td align="left" rowspan="1" colspan="1">25–50</td>
+<td align="left" rowspan="1" colspan="1">over 50</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2.</td>
+<td align="left" rowspan="1" colspan="1">Groundwater/wellhead Protection</td>
+<td align="left" rowspan="1" colspan="1">No impact</td>
+<td align="left" rowspan="1" colspan="1">Non-community well</td>
+<td align="left" rowspan="1" colspan="1">Recharge areas/community well</td>
+<td align="left" rowspan="1" colspan="1">Aquifer</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">3.</td>
+<td align="left" rowspan="1" colspan="1">Proximity to other protected lands</td>
+<td align="left" rowspan="1" colspan="1">&gt;½ mile</td>
+<td align="left" rowspan="1" colspan="1">¼ to ½ mile</td>
+<td align="left" rowspan="1" colspan="1">&lt;¼ mile</td>
+<td align="left" rowspan="1" colspan="1">Abutting or connecting such areas</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">4.</td>
+<td align="left" rowspan="1" colspan="1">Proximity to water bodies</td>
+<td align="left" rowspan="1" colspan="1">&gt;½ mile</td>
+<td align="left" rowspan="1" colspan="1">¼ to ½ mile</td>
+<td align="left" rowspan="1" colspan="1">&lt;¼ mile</td>
+<td align="left" rowspan="1" colspan="1">Abutting or connecting such areas</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">5.</td>
+<td align="left" rowspan="1" colspan="1">Natural habitat<xref ref-type="table-fn" rid="nt103">1</xref></td>
+<td align="left" rowspan="1" colspan="1">Degraded habitat</td>
+<td align="left" rowspan="1" colspan="1">Average</td>
+<td align="left" rowspan="1" colspan="1">Above average</td>
+<td align="left" rowspan="1" colspan="1">Prime habitat</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">6.</td>
+<td align="left" rowspan="1" colspan="1">Biodiversity value in future climates (ELU richness)<xref ref-type="table-fn" rid="nt104">2</xref></td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Good</td>
+<td align="left" rowspan="1" colspan="1">Better</td>
+<td align="left" rowspan="1" colspan="1">Best</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">7.</td>
+<td align="left" rowspan="1" colspan="1">Supports or is capable of supporting rare or endangered species<xref ref-type="table-fn" rid="nt105">3</xref></td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">May not fall w/in a Heritage Area, but exhibits qualities that could support r/e species</td>
+<td align="left" rowspan="1" colspan="1">Falls w/in the Heritage Area of Special Concern</td>
+<td align="left" rowspan="1" colspan="1">Documented proof of r/e species on property</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">8.</td>
+<td align="left" rowspan="1" colspan="1">Farmland preservation</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">Inactive farm</td>
+<td align="left" rowspan="1" colspan="1">Active farm &lt;10 acres</td>
+<td align="left" rowspan="1" colspan="1">Active farm &gt;10 acres</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">9.</td>
+<td align="left" rowspan="1" colspan="1">Potential to offset impact of development: # of housing units possible</td>
+<td align="left" rowspan="1" colspan="1">0</td>
+<td align="left" rowspan="1" colspan="1">1–10</td>
+<td align="left" rowspan="1" colspan="1">11–20</td>
+<td align="left" rowspan="1" colspan="1">over 20</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">10.</td>
+<td align="left" rowspan="1" colspan="1">Historic value<xref ref-type="table-fn" rid="nt106">4</xref></td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">11.</td>
+<td align="left" rowspan="1" colspan="1">Protects rural character</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">Low</td>
+<td align="left" rowspan="1" colspan="1">Medium</td>
+<td align="left" rowspan="1" colspan="1">High</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">12.</td>
+<td align="left" rowspan="1" colspan="1">Provides public passive recreational opportunities</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">13.</td>
+<td align="left" rowspan="1" colspan="1">Consistent with: a)Richmond comp. plan; b) Regional/Watershed Plan; c) Greenspace elements of State Guide Plan</td>
+<td align="left" rowspan="1" colspan="1">0/3</td>
+<td align="left" rowspan="1" colspan="1">1/3</td>
+<td align="left" rowspan="1" colspan="1">2/3</td>
+<td align="left" rowspan="1" colspan="1">3/3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">14.</td>
+<td align="left" rowspan="1" colspan="1">Price to Land Trust after other funding is considered</td>
+<td align="left" rowspan="1" colspan="1">Market value</td>
+<td align="left" rowspan="1" colspan="1">Below market value</td>
+<td align="left" rowspan="1" colspan="1">Income generating</td>
+<td align="left" rowspan="1" colspan="1">Donated</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt102"><label/><p>Different conditions for each criterion are assigned a weighted point value (0–3). The sum of the weights is totaled for a candidate property. Criteria provided by the Richmond (RI) Rural Preservation Land Trust.</p></fn><fn id="nt103"><label>1</label><p>As defined by the RI Natural History Survey.</p></fn><fn id="nt104"><label>2</label><p>As defined on ELU website.</p></fn><fn id="nt105"><label>3</label><p>As defined by the RI Natural Heritage Program.</p></fn><fn id="nt106"><label>4</label><p>Containing features defined by the RI Historical Society and/or Richmond Historical Society.</p></fn></table-wrap-foot></table-wrap>
+<p>The practical implication of our results is areas of high ELU richness will likely support high biodiversity now and in the future when climate change results in significant modification in plant communities. Hunter et al. <xref ref-type="bibr" rid="pone.0080874-Hunter1">[12]</xref> demonstrated this relationship retrospectively and provided examples from the paleoecology literature where geophysically unique landscapes supported unique ecological communities over geological time. The Rhode Island climate in 2100 is expected to be similar to the current climatic regime of the southeastern United States <xref ref-type="bibr" rid="pone.0080874-Frumhoff1">[10]</xref>. Although there are many good modeling studies of the distribution of specific plant species under various climate change scenarios <xref ref-type="bibr" rid="pone.0080874-Iverson1">[1]</xref>, there is considerable uncertainty in how species will respond to changes – adapt, disperse, go extinct – and what will be the resulting ecological communities <xref ref-type="bibr" rid="pone.0080874-Moritz1">[5]</xref>. This presents a conundrum for conservationists – where will future biodiversity hotspots be when plant (and animal) communities are significantly different due to a changing climate? Based on our results, we suggest that protecting areas of high ELU richness will be effective in protecting diverse ecological communities in the future.</p>
+<p>Decisions to protect specific parcels of land are often made at local scales by conservation organizations that do not have the benefit of staff ecologists to advise them of the current scientific thinking on climate change and conservation <xref ref-type="bibr" rid="pone.0080874-Strager1">[22]</xref>, <xref ref-type="bibr" rid="pone.0080874-Theobald1">[35]</xref>. They must also balance other conservation goals of interest to constituents or donors, such as farmland or water resource protection. Therefore, we have endeavored to make our results meaningful, understandable, and accessible to conservation practitioners, especially land trusts and land conservancies. For example, the concept of standard deviation unit classes of ELUs relative to a statewide statistical mean is an abstract concept for a citizen conservationist on a land trust who does not have a strong background in ecology or statistics. However, “Good, Better, Best” categories (<xref ref-type="table" rid="pone-0080874-t003">Table 3</xref>) are easy to understand and interpretable by anyone. We created a Rhode Island ELU web site (<ext-link ext-link-type="uri" xlink:href="http://www.edc.uri.edu/elu" xlink:type="simple">http://www.edc.uri.edu/elu</ext-link>) to explain the process of making ELUs, how they can be used, and how they correspond to patterns of biodiversity. The site contains downloadable GIS data for mapping ELUs, static maps of the geography of ELUs, and online mapping capability for local conservation practitioners.</p>
+<p>ELUs are not the only driver of biological diversity <xref ref-type="bibr" rid="pone.0080874-Huston1">[36]</xref>. Ecological pests, pathogens, land use history, dominance by invasive species, disturbance (or the lack of), and development can overwhelm the relationship between ELU diversity and species richness. Therefore, stewards of protected lands will be well-served, now and in the future, to be vigilant to invasive species, pests, and pathogens and be prepared to manage these sources of ecological disturbance on conservation properties and adjacent landscapes since they can reduce local levels of biodiversity regardless of the geophysical diversity of a site or region <xref ref-type="bibr" rid="pone.0080874-August1">[37]</xref>, <xref ref-type="bibr" rid="pone.0080874-Olson1">[38]</xref>. At state and regional levels, ELU variety can serve as an additional criterion for setting site acquisition priorities. For municipalities and local land trusts, ELU richness is an objective, repeatable, transparent, and proactive criterion to help establish land planning and conservation priorities in the face of long-term climate change.</p>
+<p>High species richness is only one of many possible biodiversity-based conservation goals. Others include protecting representative species and communities <xref ref-type="bibr" rid="pone.0080874-Justus1">[39]</xref>, <xref ref-type="bibr" rid="pone.0080874-Kintsch1">[40]</xref>, rare and endangered species <xref ref-type="bibr" rid="pone.0080874-Mawdsley1">[8]</xref>, <xref ref-type="bibr" rid="pone.0080874-Groves1">[15]</xref>, <xref ref-type="bibr" rid="pone.0080874-Theobald1">[35]</xref>, <xref ref-type="bibr" rid="pone.0080874-Langpap1">[41]</xref>, landscape structures such as corridors or buffers <xref ref-type="bibr" rid="pone.0080874-Beier1">[14]</xref>, <xref ref-type="bibr" rid="pone.0080874-Justus1">[39]</xref>, <xref ref-type="bibr" rid="pone.0080874-Forman1">[42]</xref>, <xref ref-type="bibr" rid="pone.0080874-Beier2">[43]</xref>, and landscapes that provide unique or important ecosystem services <xref ref-type="bibr" rid="pone.0080874-Carpenter1">[44]</xref>. ELUs can provide insight into some of these other conservation goals. For example, following the model of Zimmerman and Runkle <xref ref-type="bibr" rid="pone.0080874-Zimmerman1">[19]</xref> we were able to map under-represented ELUs in Rhode Island by comparing the prevalence of an ELU type on the landscape compared to how much of that ELU is included in the current portfolio of protected lands in the state. ELUs that are found infrequently on protected lands but occur with greater frequency on the overall landscape are geophysical settings that are underrepresented in our portfolio of protected lands and might be target for future conservation if representation is an important conservation goal.</p>
+<p>Our maps of ELU richness have proven valuable in conservation planning over a broad range of scales. The ELU planning class maps are effective in identifying regions of high geophysical diversity statewide (2,500 sq km), as well as providing insight on ELU richness for specific properties at local scales (2.5 sq km). Furthermore, ELUs, as we have measured them, are broadly defined and can be mapped using the same constituent geophysical data over much larger regions than we have done in our study. If dispersal rates of plants and animals can keep pace with rates of climate change effects, corridors and islands of suitable ELU types for a given species or community type might represent the most parsimonious dispersal paths <xref ref-type="bibr" rid="pone.0080874-Moritz1">[5]</xref>. This is an aspect of ELU ecology and conservation planning that warrants further investigation.</p>
+</sec><sec id="s5">
+<title>Supporting Information</title>
+<supplementary-material id="pone.0080874.s001" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="info:doi/10.1371/journal.pone.0080874.s001" position="float" xlink:type="simple"><label>Information S1</label><caption>
+<p><bold>Protocol to create Ecological Land Units (ELUs).</bold> Procedures used to create ELUs. Methods taken from The Nature Conservancy metadata record for Northeastern United States ELU dataset.</p>
+<p>(DOCX)</p>
+</caption></supplementary-material></sec></body>
+<back>
+<ack>
+<p>We thank Mark Anderson for his encouragement and guidance on this study. Caitlin Chaffee, James Boyd, Mark Stolt, Michael Bradley, Keith Killingbeck, Joanne Riccitelli, Clarkson Collins, Amanda Ryan, and Clara Rubin provided helpful insights in various aspects of the project. Thoughtful comments by Brian Brost and an anonymous reviewer significantly improved the paper.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0080874-Iverson1"><label>1</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Iverson</surname><given-names>LR</given-names></name>, <name name-style="western"><surname>Prasad</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Matthews</surname><given-names>SN</given-names></name>, <name name-style="western"><surname>Peters</surname><given-names>M</given-names></name> (<year>2008</year>) <article-title>Estimating potential habitat for 134 eastern US tree species under six climate scenarios</article-title>. <source>For Ecol Manage</source> <volume>254</volume>: <fpage>390</fpage>–<lpage>406</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Notaro1"><label>2</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Notaro</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Mauss</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Williams</surname><given-names>JW</given-names></name> (<year>2012</year>) <article-title>Projected vegetation changes for the American Southwest: combined dynamic modeling and bioclimatic-envelope approach</article-title>. <source>Ecol Appl</source> <volume>22</volume>: <fpage>1365</fpage>–<lpage>1388</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Bellard1"><label>3</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bellard</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Bertelsmeier</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Leadley</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Thuiller</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Courchamp</surname><given-names>F</given-names></name> (<year>2012</year>) <article-title>Impacts of climate change on the future of biodiversity</article-title>. <source>Ecol Lett</source> <volume>15</volume>: <fpage>365</fpage>–<lpage>377</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Blois1"><label>4</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Blois</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Zarnetske</surname><given-names>PL</given-names></name>, <name name-style="western"><surname>Fitzpatrick</surname><given-names>MC</given-names></name>, <name name-style="western"><surname>Finnegan</surname><given-names>S</given-names></name> (<year>2013</year>) <article-title>Climate change and the past, present, and future of biotic interactions</article-title>. <source>Science</source> <volume>341</volume>: <fpage>499</fpage>–<lpage>504</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Moritz1"><label>5</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Moritz</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Agudo1</surname><given-names>R</given-names></name> (<year>2013</year>) <article-title>The future of species under climate change: resilience or decline?</article-title> <source>Science</source> <volume>341</volume>: <fpage>499</fpage>–<lpage>504</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Lawler1"><label>6</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lawler</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Shafer</surname><given-names>SL</given-names></name>, <name name-style="western"><surname>White</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Kareiva</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Maurer</surname><given-names>EP</given-names></name>, <etal>et al</etal>. (<year>2009</year>) <article-title>Projected climate-induced faunal change in the Western Hemisphere</article-title>. <source>Ecology</source> <volume>90</volume>: <fpage>588</fpage>–<lpage>597</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Hickling1"><label>7</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hickling</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Roy</surname><given-names>DB</given-names></name>, <name name-style="western"><surname>Hill</surname><given-names>JK</given-names></name>, <name name-style="western"><surname>Fox</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Thomas</surname><given-names>CD</given-names></name> (<year>2006</year>) <article-title>The distributions of a wide range of taxonomic groups are expanding polewards</article-title>. <source>Glob Change Biol</source> <volume>12</volume>: <fpage>450</fpage>–<lpage>455</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Mawdsley1"><label>8</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mawdsley</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>O'Malley</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Ojima</surname><given-names>DS</given-names></name> (<year>2009</year>) <article-title>A review of climate-change adaptation strategies for wildlife management and biodiversity conservation</article-title>. <source>Conserv Biol</source> <volume>23</volume>: <fpage>1080</fpage>–<lpage>1089</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Rapacciuolo1"><label>9</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rapacciuolo</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Roy</surname><given-names>DB</given-names></name>, <name name-style="western"><surname>Gillings</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Fox</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Walker</surname><given-names>K</given-names></name>, <etal>et al</etal>. (<year>2012</year>) <article-title>Climatic associations of British species distributions show good transferability in time but low predictive accuracy for range change</article-title>. <source>PLoS One</source> <volume>7</volume>: <fpage>e40212</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Frumhoff1"><label>10</label>
+<mixed-citation publication-type="book" xlink:type="simple">Frumhoff PC, McCarthy JJ, Mellilo JM, Moser SC, Wuebbles DL (2007) Confronting climate change in the U.S. Northeast: science, impacts, and solutions. Synthesis report of the Northeast Climate Impacts Assessment (NECIA). CambridgeMA: Union of Concerned Scientists (UCS). 145 p.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Diffenbaugh1"><label>11</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Diffenbaugh</surname><given-names>NS</given-names></name>, <name name-style="western"><surname>Field</surname><given-names>CB</given-names></name> (<year>2013</year>) <article-title>Changes in ecologically critical terrestrial climate conditions</article-title>. <source>Science</source> <volume>341</volume>: <fpage>486</fpage>–<lpage>492</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Hunter1"><label>12</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hunter</surname><given-names>ML</given-names></name>, <name name-style="western"><surname>Jacobson</surname><given-names>GL</given-names></name>, <name name-style="western"><surname>Webb</surname><given-names>T</given-names></name> (<year>1988</year>) <article-title>Paleoecology and the coarse-filter approach to maintaining biological diversity</article-title>. <source>Conserv Biol</source> <volume>2</volume>: <fpage>375</fpage>–<lpage>385</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Anderson1"><label>13</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Anderson</surname><given-names>MG</given-names></name>, <name name-style="western"><surname>Ferree</surname><given-names>CE</given-names></name> (<year>2010</year>) <article-title>Conserving the stage: climate change and the geophysical underpinnings of species diversity</article-title>. <source>PLoS One</source> <volume>5(7)</volume>: <fpage>e11554</fpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0011554" xlink:type="simple">10.1371/journal.pone.0011554</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0080874-Beier1"><label>14</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Beier</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Brost</surname><given-names>B</given-names></name> (<year>2010</year>) <article-title>Use of land facets to plan for climate change: conserving the arenas, not the actors</article-title>. <source>Conserv Biol</source> <volume>24</volume>: <fpage>701</fpage>–<lpage>710</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Groves1"><label>15</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Groves</surname><given-names>CR</given-names></name>, <name name-style="western"><surname>Game</surname><given-names>ET</given-names></name>, <name name-style="western"><surname>Anderson</surname><given-names>MG</given-names></name>, <name name-style="western"><surname>Cross</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Enquist</surname><given-names>C</given-names></name>, <etal>et al</etal>. (<year>2012</year>) <article-title>Incorporating climate change into systematic conservation planning</article-title>. <source>Biodivers Conserv</source> <volume>21</volume>: <fpage>1651</fpage>–<lpage>1671</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Hutchinson1"><label>16</label>
+<mixed-citation publication-type="book" xlink:type="simple">Hutchinson GE (1965) The Ecological Theater and the Evolutionary Play. Yale University Press. 139 p.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Nichols1"><label>17</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Nichols</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Killingbeck</surname><given-names>KT</given-names></name>, <name name-style="western"><surname>August</surname><given-names>PV</given-names></name> (<year>1998</year>) <article-title>The influence of geomorphological heterogeneity on biodiversity: II. A landscape perspective</article-title>. <source>Conserv Biol</source> <volume>12</volume>: <fpage>371</fpage>–<lpage>379</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Burnett1"><label>18</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Burnett</surname><given-names>MB</given-names></name>, <name name-style="western"><surname>August</surname><given-names>PV</given-names></name>, <name name-style="western"><surname>Brown</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Killingbeck</surname><given-names>K</given-names></name> (<year>1998</year>) <article-title>The influence of geomorphological heterogeneity on biodiversity: I. A patch-scale perspective</article-title>. <source>Conserv Biol</source> <volume>12</volume>: <fpage>363</fpage>–<lpage>370</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Zimmerman1"><label>19</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zimmerman</surname><given-names>CL</given-names></name>, <name name-style="western"><surname>Runkle</surname><given-names>JR</given-names></name> (<year>2010</year>) <article-title>Using ecological land units for conservation planning in a Southwestern Ohio watershed</article-title>. <source>Natural Areas Journal</source> <volume>30</volume>: <fpage>27</fpage>–<lpage>38</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Franklin1"><label>20</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Franklin</surname><given-names>J</given-names></name> (<year>2003</year>) <article-title>Clustering versus regression trees for determining ecological land units in the Southern California mountains and foothills</article-title>. <source>Forest Sci</source> <volume>49</volume>: <fpage>354</fpage>–<lpage>368</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Wessels1"><label>21</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wessels</surname><given-names>KJ</given-names></name>, <name name-style="western"><surname>Freitag</surname><given-names>S</given-names></name>, <name name-style="western"><surname>van Jaarsveld</surname><given-names>AS</given-names></name> (<year>1999</year>) <article-title>The use of land facets as biodiversity surrogates during reserve selection at a local scale</article-title>. <source>Biol Conserv</source> <volume>89</volume>: <fpage>1300</fpage>–<lpage>1301</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Strager1"><label>22</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Strager</surname><given-names>MP</given-names></name>, <name name-style="western"><surname>Rosenberger</surname><given-names>RS</given-names></name> (<year>2007</year>) <article-title>Aggregating high-priority landscape areas to the parcel level: An easement implementation tool</article-title>. <source>J Environ Manage</source> <volume>82</volume>: <fpage>290</fpage>–<lpage>298</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Maune1"><label>23</label>
+<mixed-citation publication-type="book" xlink:type="simple">Maune DF (2007) Digital elevation model technologies and applications: the DEM users manual, 2nd edn., Bethesda: American Society for Photogrammetry and Remote Sensing. 655 p.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Shellito1"><label>24</label>
+<mixed-citation publication-type="book" xlink:type="simple">Shellito BA (2011) Introduction to geospatial technologies. New York: W. H. Freeman. 452 p.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Gesch1"><label>25</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gesch</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Oimoen</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Greenlee</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Nelson</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Steuck</surname><given-names>M</given-names></name>, <etal>et al</etal>. (<year>2002</year>) <article-title>The national elevation dataset</article-title>. <source>Photogramm Eng Remote Sensing</source> <volume>68</volume>: <fpage>5</fpage>–<lpage>11</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Soil1"><label>26</label>
+<mixed-citation publication-type="other" xlink:type="simple">Soil Survey Staff, Natural Resources Conservation Service, United States Department of Agriculture. Soil Survey Geographic (SSURGO) Database. Available: <ext-link ext-link-type="uri" xlink:href="http://websoilsurvey.nrcs.usda.gov" xlink:type="simple">http://websoilsurvey.nrcs.usda.gov</ext-link>. Accessed 2013 Aug 2.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Vacher1"><label>27</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Vacher</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Killingbeck</surname><given-names>K</given-names></name>, <name name-style="western"><surname>August</surname><given-names>PV</given-names></name> (<year>2007</year>) <article-title>Is the relative abundance of nonnative species an integrated measure of anthropogenic disturbance?</article-title> <source>Landsc Ecol</source> <volume>22</volume>: <fpage>821</fpage>–<lpage>835</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Gotelli1"><label>28</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gotelli</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Colwell</surname><given-names>R</given-names></name> (<year>2001</year>) <article-title>Quantifying biodiversity: procedures and pitfalls in the measurement and comparison of species richness</article-title>. <source>Ecol Letters</source> <volume>4</volume>: <fpage>379</fpage>–<lpage>391</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Nichols2"><label>29</label>
+<mixed-citation publication-type="other" xlink:type="simple">Nichols W (1996) The influence of geomorphological heterogeneity, disturbance, and area on vascular plant diversity. 86 p. MS thesis. University of Rhode Island.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Fels1"><label>30</label>
+<mixed-citation publication-type="other" xlink:type="simple">Fels JE, Matson KC (1996) A cognitively-based approach for hydrogeomorphic land classification using digital terrain models. Proceedings of Third NCGIA International Conference/Workshop on Integrating GIS and Environmental Modeling. Santa Fe, New Mexico. Available: <ext-link ext-link-type="uri" xlink:href="http://www.ncgia.ucsb.edu/conf/SANTA_FE_CD-ROM/sf_papers/fels_john/fels_and_matson.html" xlink:type="simple">http://www.ncgia.ucsb.edu/conf/SANTA_FE_CD-ROM/sf_papers/fels_john/fels_and_matson.html</ext-link></mixed-citation>
+</ref>
+<ref id="pone.0080874-Anderson2"><label>31</label>
+<mixed-citation publication-type="other" xlink:type="simple">Anderson MG (1999) Viability and spatial assessment of ecological communities in the Northern Appalachian Ecoregion. 224 p. PhD dissertation. Univ. of New Hampshire.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Prentice1"><label>32</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Prentice</surname><given-names>IC</given-names></name>, <name name-style="western"><surname>Cramer</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Harrison</surname><given-names>SP</given-names></name>, <name name-style="western"><surname>Leemans</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Monserud</surname><given-names>RA</given-names></name>, <etal>et al</etal>. (<year>1992</year>) <article-title>A global biome model based on plant physiology and dominance, soil properties and climate</article-title>. <source>J Biogeogr</source> <volume>19</volume>: <fpage>117</fpage>–<lpage>134</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-R1"><label>33</label>
+<mixed-citation publication-type="other" xlink:type="simple">R Core Team (2013) R: A language and environment for statistical computing. R Foundation for Statistical Computing. Vienna Austria. Available: <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org" xlink:type="simple">http://www.R-project.org</ext-link>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Hjort1"><label>34</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hjort</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Heikkinen</surname><given-names>RK</given-names></name>, <name name-style="western"><surname>Luoto</surname><given-names>M</given-names></name> (<year>2012</year>) <article-title>Inclusion of explicit measures of geodiversity improve biodiversity models in a boreal landscape</article-title>. <source>Biodivers Conserv</source> <volume>21</volume>: <fpage>3487</fpage>–<lpage>3506</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Theobald1"><label>35</label>
+<mixed-citation publication-type="other" xlink:type="simple">Theobald DM, Hobbs NT (2002) A framework for evaluating land use planning alternatives: protecting biodiversity on private land. Conservation Ecology <volume>6</volume> : [online] Available: <ext-link ext-link-type="uri" xlink:href="http://www.consecol.org/vol6/iss1/art5/" xlink:type="simple">http://www.consecol.org/vol6/iss1/art5/</ext-link></mixed-citation>
+</ref>
+<ref id="pone.0080874-Huston1"><label>36</label>
+<mixed-citation publication-type="book" xlink:type="simple">Huston M (1994) Biological diversity: the coexistence of species on changing landscapes. Cambridge UK. Cambridge University Press. 681 p.</mixed-citation>
+</ref>
+<ref id="pone.0080874-August1"><label>37</label>
+<mixed-citation publication-type="other" xlink:type="simple">August P, Coit J, Gregg D (n.d.) Stewardship of conserved lands. In: Wang YQ editor. Encyclopedia of natural resources. New York: Taylor and Francis Press. In press.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Olson1"><label>38</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Olson</surname><given-names>D</given-names></name>, <name name-style="western"><surname>O'Connell</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Fang</surname><given-names>YC</given-names></name>, <name name-style="western"><surname>Burger</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Rayburn</surname><given-names>R</given-names></name> (<year>2009</year>) <article-title>Managing for climate change within protected area landscapes</article-title>. <source>Natural Areas Journal</source> <volume>29</volume>: <fpage>394</fpage>–<lpage>399</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Justus1"><label>39</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Justus</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Fuller</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Sarkar</surname><given-names>S</given-names></name> (<year>2008</year>) <article-title>Influence of representation targets on the total area of conservation-area networks</article-title>. <source>Conserv Biol</source> <volume>22</volume>: <fpage>673</fpage>–<lpage>682</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Kintsch1"><label>40</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kintsch</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Urban</surname><given-names>DL</given-names></name> (<year>2002</year>) <article-title>Focal species, community representation, and physical proxies as conservation strategies: a case study in the Amphibolite Mountains,</article-title>. <source>North Carolina, U.S.A. Conserv Biol</source> <volume>16</volume>: <fpage>936</fpage>–<lpage>947</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Langpap1"><label>41</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Langpap</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Kerkvliet</surname><given-names>J</given-names></name> (<year>2012</year>) <article-title>Endangered species conservation on private land: Assessing the effectiveness of habitat conservation plans</article-title>. <source>J Environ Econ Manage</source> <volume>64</volume>: <fpage>1</fpage>–<lpage>15</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Forman1"><label>42</label>
+<mixed-citation publication-type="book" xlink:type="simple">Forman RTT (1995) Land mosaics: the ecology of landscapes and regions. New York, Cambridge University Press, 632 p.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Beier2"><label>43</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Beier</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Spencer</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Baldwin</surname><given-names>RF</given-names></name>, <name name-style="western"><surname>McRae</surname><given-names>B</given-names></name> (<year>2011</year>) <article-title>Toward best practices for developing regional connectivity maps</article-title>. <source>Conservation Biology</source> <volume>25</volume>: <fpage>879</fpage>–<lpage>892</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0080874-Carpenter1"><label>44</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carpenter</surname><given-names>SR</given-names></name>, <name name-style="western"><surname>Mooney</surname><given-names>HA</given-names></name>, <name name-style="western"><surname>Agard</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Capistrano</surname><given-names>D</given-names></name>, <name name-style="western"><surname>DeFries</surname><given-names>RS</given-names></name>, <etal>et al</etal>. (<year>2009</year>) <article-title>Science for managing ecosystem services: beyond the Millennium Ecosystem Assessment</article-title>. <source>Proc Natl Acad Sci</source> <volume>106</volume>: <fpage>1305</fpage>–<lpage>1312</lpage>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>
