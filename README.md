@@ -7,8 +7,7 @@ Workshop resources for the workshop in Chicago (US) on 14th November 2014
 
 
 ## ContentMine workshop at Chicago
-### 09:00 – 17:00, 14th November 2014 
-### [Registration] (http://ci-contentmine.eventbrite.com/)
+### 09:00 – 16:30, 14th November 2014 
 
 ## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#ContentMineChicago
 
