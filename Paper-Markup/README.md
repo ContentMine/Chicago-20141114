@@ -25,10 +25,9 @@ Thus "1984", "Pleistocene", "5 minutes" could be marked as date/times, while "re
 * computability - can the entity be analysed algorithmically?
 
 Add your answers to the Etherpad.
+
+### Types of entity 
 <img src="https://raw.githubusercontent.com/ContentMine/Chicago-20141114/master/Paper-Markup/highlighters.jpg" align="right" width="350px"/>
-### Types of entity
-
-
 * **YELLOW**: Species and Genera. use only precise terms (e.g. omit generic terms such as "pets"). 
 * **ORANGE**: Places. Anything that resolves to a usefully defined point or region. "London", Latitude+Longitude, not "further north". Exclude metadata
 * **NEON PEACH**: Date/times. Resolvable to an ISO 8601 datetime or an ontologically supported concept ("Eocene", "equinoctual"). Not "recently".
