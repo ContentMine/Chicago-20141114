@@ -20,12 +20,6 @@ For real examples of published phylogenetic tree figures (and the vast variety o
 ## Getting Started
 
  
- Inside your ContentMine VM, open up a terminal (e.g. right click, select Terminal).
- Type or copy-in & execute this script to make sure everything is up to date:
- ```
- sh /home/workshop/ebi_workshop_20141006/setup/update_contentmine.sh
- ```
- 
  Run *ami-tree* with no arguments to see what command-line arguments it accepts, you should see something like:
  
 ```
