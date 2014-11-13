@@ -28,6 +28,8 @@ Add your answers to the Etherpad.
 
 ### Types of entity
 
+<img src="https://raw.githubusercontent.com/ContentMine/Chicago-20141114/master/Paper-Markup/highlighters.jpg" width="400px"/>
+
 * **YELLOW**: Species and Genera. use only precise terms (e.g. omit generic terms such as "pets"). 
 * **ORANGE**: Places. Anything that resolves to a usefully defined point or region. "London", Latitude+Longitude, not "further north". Exclude metadata
 * **NEON PEACH**: Date/times. Resolvable to an ISO 8601 datetime or an ontologically supported concept ("Eocene", "equinoctual"). Not "recently".
