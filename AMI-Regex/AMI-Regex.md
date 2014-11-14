@@ -31,7 +31,17 @@ and clone some data files to test with:
 
 ```
 sudo apt-get install mercurial
+```
+
+then...
+
+```
 hg clone https://bitbucket.org/petermr/ami-core/
+```
+
+then...
+
+```
 cd ami-core
 ```
 
