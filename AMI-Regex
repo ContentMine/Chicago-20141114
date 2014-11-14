@@ -1,0 +1,6 @@
+Regular expressions (regex, regexp) are a very widely used and common way of searching text. A regex describes a set of possible textual matches and  AMI-regex apllies one or more to the documents/ that are to be searched. 
+
+Regexes can be very simple, but also become very complex and have a reputation for difficulty. AMI-regex has been designed to cut down down the complexity and chance of error. This is partly because symbols are used which take time to learn. There are now lots of online tutorials and we hope the community will contribute links. However in this exercise we want non-experts to learn a few basic rules only.
+
+AMI-regex reads the regexes from a file; we have some prepared ones so you can practice. 
+
