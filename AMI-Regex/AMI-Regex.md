@@ -73,7 +73,7 @@ from the commandline which should bring up a help output. To run a complete job 
 directory (-o) and the regex file to use (-g). Run the typical command:
 
 ```
-ami-regex -i docs/regex/1471-2148-14-70.xml -o target -g regex/general.xml 
+ami-regex -i docs/regex/1471-2148-14-70.xml -g regex/general.xml 
 ```
 
 By varying -i, and -g you should be able to run different regexes over different files.
