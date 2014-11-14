@@ -76,6 +76,12 @@ directory (-o) and the regex file to use (-g). Run the typical command:
 ami-regex -i docs/regex/1471-2148-14-70.xml -g regex/general.xml 
 ```
 
+The output should end up in 
+```
+target/1471-2148-14-70.xml/results.xml
+```
+To view this open it in any modern browser which may also highlight and indent XML structure.
+
 By varying -i, and -g you should be able to run different regexes over different files.
 
 ## Regex syntax ##
