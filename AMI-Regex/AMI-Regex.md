@@ -10,6 +10,16 @@ designed to cut down down the complexity and chance of error. This is partly bec
 time to learn. There are now lots of online tutorials and we hope the community will contribute links. 
 However in this exercise we want non-experts to learn a few basic rules only.
 
+## INSTALLATION - BRAND NEW UPDATES!!!
+
+(from inside your VM) Download & install the very latest package:
+
+* download this file: https://bitbucket.org/petermr/ami-core/downloads/ami-core_0.1~SNAPSHOT_all.deb
+* install with 
+```
+sudo dpkg -i ami-core_0.1~SNAPSHOT_all.deb
+```
+
 AMI-regex reads the regexes from a file; we have some prepared some already so you can practice. In your ami-core distrib you will find fields
 
 ```
