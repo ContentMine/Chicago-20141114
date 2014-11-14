@@ -30,6 +30,7 @@ sudo dpkg -i ami-core_0.1~SNAPSHOT_all.deb
 and clone some data files to test with:
 
 ```
+sudo apt-get install hg
 hg clone https://bitbucket.org/petermr/ami-core/
 cd ami-core
 ```
