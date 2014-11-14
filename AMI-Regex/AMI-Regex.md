@@ -29,7 +29,6 @@ there's also a copy of the "lion" paper in
        
 ## Running the plugin ###
 
-```
 To run the regex plugin type:
 ```
       ami-regex 
