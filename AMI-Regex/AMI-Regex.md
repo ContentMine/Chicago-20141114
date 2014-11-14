@@ -14,7 +14,7 @@ However in this exercise we want non-experts to learn a few basic rules only.
 
 (from inside your VM) Download & install the very latest package:
 
-* uninstall the broken stuff:
+* uninstall the broken stuff (the password is password):
 ```
 sudo apt-get remove xhtml2stm
 ```
