@@ -24,7 +24,7 @@ wget https://bitbucket.org/petermr/ami-core/downloads/ami-core-2.deb
 ```
 * install with 
 ```
-sudo dpkg -i ami-core_0.1~SNAPSHOT_all.deb
+sudo dpkg -i ami-core-2.deb
 ```
 
 and clone some data files to test with:
