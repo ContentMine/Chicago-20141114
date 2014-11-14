@@ -20,7 +20,7 @@ sudo apt-get remove xhtml2stm
 ```
 * download the new stuff that works:
 ```
-wget https://bitbucket.org/petermr/ami-core/downloads/ami-core_0.1~SNAPSHOT_all.deb
+wget https://bitbucket.org/petermr/ami-core/downloads/ami-core-2.deb
 ```
 * install with 
 ```
