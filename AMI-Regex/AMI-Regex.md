@@ -18,7 +18,10 @@ However in this exercise we want non-experts to learn a few basic rules only.
 ```
 sudo apt-get remove xhtml2stm
 ```
-* download the new stuff that works: https://bitbucket.org/petermr/ami-core/downloads/ami-core_0.1~SNAPSHOT_all.deb
+* download the new stuff that works:
+```
+wget https://bitbucket.org/petermr/ami-core/downloads/ami-core_0.1~SNAPSHOT_all.deb
+```
 * install with 
 ```
 sudo dpkg -i ami-core_0.1~SNAPSHOT_all.deb
